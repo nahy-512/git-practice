@@ -1,0 +1,524 @@
+    1  brew install curl
+    2  brew install zsh
+    3  mkdir util && cd util
+    4  curl -LO http://www.apple.com/DTDs/PropertyList-1.0.dtd
+    5  curl -LO https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Snazzy.itermcolors
+    6  cd nahyun
+    7  cd util
+    8  vi cocoa/.zshrc
+    9  cd cocoa
+   10  vi ~/.zshrc
+   11  vi ~/.zshrc
+   12  git --version
+   13  git --version
+   14  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   15  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/nahyun/.zprofile
+   16  eval "$(/opt/homebrew/bin/brew shellenv)"
+   17  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+   18  code ~/.zshrc
+   19  brew
+   20  brew install --cask visual-studio-code
+   21  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   22  code ~/ .zshrc
+   23  
+   24  
+   25  vi ~/.zshrc
+   26  
+   27  vi~/.zshrc
+   28  cd nahyun
+   29  cd util
+   30  brew install --cask android-studio
+   31  cd FLO-Clone-Coding
+   32  cd UMC
+   33  cd FLO-Clone-Coding
+   34  git clone https://github.com/nahy-512/FLO-Clone-Coding.git
+   35  cd home
+   36  brew install --cask xcodes
+   37  git config --global user.name "nahy-512"
+   38  git config --global user.email "hedghog1004@naver.com"
+   39  git config --list
+   40  cd FLO-Clone-Coding
+   41  git switch main
+   42  cd FLO-Clone-Coding
+   43  git push origin main
+   44  cd FLO-Clone-Coding
+   45  git push origin main
+   46  cd FLO-Clone-Coding
+   47  git push origin main
+   48  cd Desktop
+   49  ls
+   50  cd ..
+   51  ls
+   52  cd Desktop
+   53  ls
+   54  cd "/Users/nahyun/Desktop/test/" && gcc test.c -o test && "/Users/nahyun/Desktop/test/"test
+   55  python -V
+   56  python3 -V
+   57  printenv > /var/folders/kk/kmj_r06x3fj3t5gh5yg5js040000gn/T/tmp-1335Ve4bbeXIrvNztxt
+   58  /usr/bin/python3 /Users/nahyun/Desktop/test/nahyun.py
+   59  cd .android/avd/Pixel_3a_API_33_arm64-v8a.avd
+   60  FLO-Clone-Coding
+   61  git log
+   62  FLO-Clone-Coding
+   63  git push origin main
+   64  FLO
+   65  FLO-Clone-Coding
+   66  git branch mac
+   67  git switch origin mac
+   68  git switch mac
+   69  git push origin mac
+   70  FLO-Clone-Coding
+   71  git rm-r --cached .
+   72  git rm -r --cached .
+   73  git log
+   74  FLO-Clone-Coding
+   75  git reset --hard HEAD
+   76  /usr/bin/python3 /Users/nahyun/VSC/test.py
+   77  python --version
+   78  python3 --version
+   79  /usr/bin/python3 "/Users/nahyun/VSC/다각형 그리기.py"
+   80  /usr/bin/python3 /Users/nahyun/VSC/test.py
+   81  /usr/bin/python3 "/Users/nahyun/VSC/술취한 거북이.py"
+   82  cd GitHub
+   83  git clone https://github.com/nahy-512/C.git
+   84  cd GitHub
+   85  git clone https://github.com/nahy-512/C.git
+   86  git version
+   87  git config --global user.name "nahy-512"
+   88  git config --global user.email "hedghog1004@naver.com"
+   89  cd GitHub
+   90  git clone https://github.com/nahy-512/C.git
+   91  cd FLO-Clone-Coding
+   92  git remote -v
+   93  vim ~/.gitconfig
+   94  git credential -osxkeychain
+   95  git credential-oskeychain
+   96  git credential-osxkeychain
+   97  git config --global credential.helper cache
+   98  git config credential.helper
+   99  git config --global credential.helper osxkeychain
+  100  cd GitHub
+  101  git clone https://github.com/nahy-512/C.git
+  102  git clone Could not resolve host: github.com
+  103  git clone https://github.com/nahy-512/C.git
+  104  cd GitHub
+  105  git clone https://github.com/nahy-512/C.git
+  106  cd GitHub
+  107  git clone https://github.com/nahy-512/C.git
+  108  git remote -v
+  109  git clone https://github.com/nahy-512/C.git
+  110  cd GitHub
+  111  git clone https://github.com/nahy-512/C.git
+  112  cd GitHub
+  113  git clone nahy-512/C
+  114  git clone https://github.com/nahy-512/C.git
+  115  /usr/local/bin/python3 "/Users/nahyun/Documents/프로그래밍/파이썬(python)/파이썬 실습/개인/술취한 거북이.py"
+  116  /usr/local/bin/python3 "/Users/nahyun/Documents/프로그래밍/파이썬(python)/파이썬 실습/개인/수업 복습.py"
+  117  cd "/Users/nahyun/GitHub/C/" && gcc 숫자야구.c -o 숫자야구 && "/Users/nahyun/GitHub/C/"숫자야구
+  118  cd "/Users/nahyun/Downloads/" && gcc 202234860_김나현_HW1.c -o 202234860_김나현_HW1 && "/Users/nahyun/Downloads/"202234860_김나현_HW1
+  119  cd GitHub
+  120  git clone https://github.com/nahy-512/Android-Project.git
+  121  cd Android-Project
+  122  git add .
+  123  git add README.md
+  124  git commit -m "initial commit"
+  125  git branch Mac
+  126  git switch Mac
+  127  git push origin Mac
+  128  cd GitHub
+  129  cd c
+  130  git pull origin main
+  131  cd "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/" && gcc array_function_2.c -o array_function_2 && "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/"array_function_2
+  132  cd "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/" && gcc array_function_3.c -o array_function_3 && "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/"array_function_3
+  133  cd "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/" && gcc array_function_1.c -o array_function_1 && "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/"array_function_1
+  134  cd "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/" && gcc array_function_4.c -o array_function_4 && "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/"array_function_4
+  135  cd "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/" && gcc array_function_5.c -o array_function_5 && "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/"array_function_5
+  136  cd "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/" && gcc array_function_6.c -o array_function_6 && "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/"array_function_6
+  137  cd "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/" && gcc array_function_3.c -o array_function_3 && "/Users/nahyun/GitHub/C/1-1 프로그래밍 기초/해보기/"array_function_3
+  138  git add .
+  139  git commit -m "프밍기 array function"
+  140  git branch Mac
+  141  git switch Mac
+  142  git push origin Mac
+  143  cd GitHub
+  144  cd C
+  145  git push origin Mac
+  146  cd "/Users/nahyun/" && gcc 0913.c -o 0913 && "/Users/nahyun/"0913
+  147  /usr/local/bin/python3 "/Users/nahyun/Python/술취한 거북이.py"
+  148  cd GitHub
+  149  git clone https://github.com/nahy-512/Python.git
+  150  /usr/local/bin/python3 "/Users/nahyun/VSC/다각형 그리기.py"
+  151  /usr/local/bin/python3 /Users/nahyun/Python/exercise3-2.py
+  152  python -u "/Users/nahyun/Python/exercise3-2.py"
+  153  /usr/local/bin/python3 /Users/nahyun/Python/exercise3-2.py
+  154  python -u "/Users/nahyun/Python/ex3-4.py"
+  155  /usr/local/bin/python3 /Users/nahyun/Python/ex3-4.py
+  156  /usr/local/bin/python3 /Users/nahyun/Python/ex3-5.py
+  157  /usr/local/bin/python3 /Users/nahyun/Python/ex3-6.py
+  158  /usr/local/bin/python3 /Users/nahyun/Python/ex3-7.py
+  159  cd GitHub
+  160  cd Python
+  161  git add .
+  162  git commit -m "1-2 응용프로그래밍 3주차"
+  163  git branch Mac
+  164  git switch Mac
+  165  git push origin Mac
+  166  cd GitHub
+  167  cd C
+  168  git add .
+  169  git commit -m "파일 정리"
+  170  git push origin Mac
+  171  git clone https://github.com/UMC-Project-Namo/Android.git
+  172  cd "/Users/nahyun/대학교/문제해결기법/3주차/" && gcc struct1.c -o struct1 && "/Users/nahyun/대학교/문제해결기법/3주차/"struct1
+  173  cd "/Users/nahyun/대학교/문제해결기법/3주차/" && gcc struct2.c -o struct2 && "/Users/nahyun/대학교/문제해결기법/3주차/"struct2
+  174  cd "/Users/nahyun/대학교/문제해결기법/3주차/" && gcc struct3.c -o struct3 && "/Users/nahyun/대학교/문제해결기법/3주차/"struct3
+  175  cd "/Users/nahyun/대학교/문제해결기법/3주차/" && gcc struct4.c -o struct4 && "/Users/nahyun/대학교/문제해결기법/3주차/"struct4
+  176  cd "/Users/nahyun/대학교/문제해결기법/3주차/" && gcc struct5.c -o struct5 && "/Users/nahyun/대학교/문제해결기법/3주차/"struct5
+  177  cd "/Users/nahyun/대학교/문제해결기법/3주차/" && gcc struct6.c -o struct6 && "/Users/nahyun/대학교/문제해결기법/3주차/"struct6
+  178  cd "/Users/nahyun/대학교/문제해결기법/3주차/" && gcc struct 2-1.c -o struct 2-1 && "/Users/nahyun/대학교/문제해결기법/3주차/"struct 2-1
+  179  cd "/Users/nahyun/대학교/문제해결기법/3주차/" && gcc struct exercise.c -o struct exercise && "/Users/nahyun/대학교/문제해결기법/3주차/"struct exercise
+  180  cd "/Users/nahyun/대학교/문제해결기법/3주차/" && gcc struct.c -o struct && "/Users/nahyun/대학교/문제해결기법/3주차/"struct
+  181  cd GitHub
+  182  git clone https://github.com/UMC-Project-Namo/Android.git
+  183  cd "/Users/nahyun/대학교/문제해결기법/3주차/" && gcc struct2.c -o struct2 && "/Users/nahyun/대학교/문제해결기법/3주차/"struct2
+  184  cd GitHub
+  185  cd C
+  186  git add .
+  187  git commit -m "문해기 3주차"
+  188  git push origin Mac
+  189  cd GitHub
+  190  cd Markdown
+  191  git init
+  192  git config --global init.defaultBranch main
+  193  git config --get init.defaultBranch
+  194  git init
+  195  git add .
+  196  git commit -m "initial commit"
+  197  git add .
+  198  git commit -m "initial commit"
+  199  git push origin main
+  200  git config --list
+  201  cd GitHub
+  202  cd Markdown
+  203  git branch -M main
+  204  git remote add origin https://github.com/nahy-512/Markdown.git
+  205  git push -u origin main
+  206  cd GitHub
+  207  git clone https://github.com/nahy-512/Markdown.git
+  208  cd Markdown
+  209  git add .
+  210  git commit -m "[OSS] Lab3"
+  211  git push origin main
+  212  /dev
+  213  cd GitHub
+  214  cd Python
+  215  git add .
+  216  git commit -m "응프 4주차"
+  217  git push origin Mac
+  218  git config --log
+  219  git config --global
+  220  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc ex4-1.c -o ex4-1 && "/Users/nahyun/대학교/문제해결기법/4주차/"ex4-1
+  221  cd "/Users/nahyun/" && gcc ex.c -o ex && "/Users/nahyun/"ex
+  222  cd "/Users/nahyun/" && gcc ex4-2.c -o ex4-2 && "/Users/nahyun/"ex4-2
+  223  git clone https://github.com/Gachon-UMC/3rd_UMC_iOS.git
+  224  cd 3rd_UMC_iOS
+  225  git add .
+  226  git commit -m "My First Update"
+  227  git push origin main
+  228  git branch cocoa
+  229  git switch cocoa
+  230  cd 3rd_UMC_iOS
+  231  git add .
+  232  git commit -m "My First Branch Update"
+  233  git push origin cocoa
+  234  defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
+  235  cd GitHub
+  236  cd C
+  237  git add /
+  238  git add .
+  239  git commit -m "4주차 폴더"
+  240  git push origin Mac
+  241  cd GitHub
+  242  git clone https://github.com/JM2308/UMC_2nd_Android-Instagram_Clone_Coding.git
+  243  cd GitHub
+  244  cd C
+  245  git add .
+  246  git commit -m "프밍기 10주차"
+  247  git push origin Mac
+  248  pwd
+  249  ls
+  250  cd Mov
+  251  exit
+  252  pwd
+  253  ls
+  254  cd OSS
+  255  pwd
+  256  ls
+  257  cd ..
+  258  ls
+  259  cd OSS/neuralintlab
+  260  ls
+  261  cd .. transformers
+  262  cd ../transformers
+  263  pwd
+  264  cd ../neuralintlab
+  265  ls -l
+  266  ls -lh
+  267  cd ..
+  268  ls -l
+  269  ls -la
+  270  cd ..
+  271  ls -lh
+  272  clear
+  273  cd OSS
+  274  clear
+  275  cd neuralintlab
+  276  ls
+  277  cp HW4-1.py module.py
+  278  ls
+  279  mv module.py new_module.py
+  280  ls
+  281  cp -r ../transformers .
+  282  ls
+  283  cd transformers
+  284  ls
+  285  cd ..
+  286  mv transformers trans
+  287  ls
+  288  mv trans me
+  289  mv me transformers
+  290  exit
+  291  cd OSS
+  292  ls
+  293  cd transformers
+  294  ls
+  295  cd folder_1
+  296  ls
+  297  rm umc\ 2기\ 지원서.txt
+  298  ls
+  299  cd ..
+  300  clear
+  301  ls
+  302  mkdir new_directory
+  303  ls
+  304  rm *.txt
+  305  ls
+  306  cd ~
+  307  cd GitHub
+  308  cd Markdown
+  309  git add .
+  310  git commit -m "Shell command 노트정리"
+  311  git push origin main
+  312  exit
+  313  ls
+  314  cd GitHub
+  315  ls -la ..
+  316  ls
+  317  ls -la
+  318  cd Markdown
+  319  ls
+  320  ls -la
+  321  rm .DS_Store
+  322  ls
+  323  ls -la
+  324  git add .
+  325  git commit -m "update Shell command 노트정리"
+  326  git push origin main
+  327  cd GitHub
+  328  cd Markdown
+  329  ls
+  330  mv [OSS]lab4 [OSS] lab4
+  331  mv \[OSS\]lab4.md [OSS]\lab4.md
+  332  ls
+  333  git add .
+  334  git commit -m "update Command Shall 노트정리2"
+  335  git push origin main
+  336  exit
+  337  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc ex4-1.c -o ex4-1 && "/Users/nahyun/대학교/문제해결기법/4주차/"ex4-1
+  338  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc HW2-1.c -o HW2-1 && "/Users/nahyun/대학교/문제해결기법/4주차/"HW2-1
+  339  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc HW2-2.c -o HW2-2 && "/Users/nahyun/대학교/문제해결기법/4주차/"HW2-2
+  340  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc HW2-1.c -o HW2-1 && "/Users/nahyun/대학교/문제해결기법/4주차/"HW2-1
+  341  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc ex5-1.c -o ex5-1 && "/Users/nahyun/대학교/문제해결기법/4주차/"ex5-1
+  342  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc ex5-2.c -o ex5-2 && "/Users/nahyun/대학교/문제해결기법/4주차/"ex5-2
+  343  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc HW2-2.c -o HW2-2 && "/Users/nahyun/대학교/문제해결기법/4주차/"HW2-2
+  344  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc ex4-3.c -o ex4-3 && "/Users/nahyun/대학교/문제해결기법/4주차/"ex4-3
+  345  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc HW2-2.c -o HW2-2 && "/Users/nahyun/대학교/문제해결기법/4주차/"HW2-2
+  346  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc HW2-3.c -o HW2-3 && "/Users/nahyun/대학교/문제해결기법/4주차/"HW2-3
+  347  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc HW2-1.c -o HW2-1 && "/Users/nahyun/대학교/문제해결기법/4주차/"HW2-1
+  348  cd "/Users/nahyun/Desktop/항목을 포함하는 새로운 폴더/" && g++ 202234860_김나현_HW2-1_NodeLink.cpp -o 202234860_김나현_HW2-1_NodeLink && "/Users/nahyun/Desktop/항목을 포함하는 새로운 폴더/"202234860_김나현_HW2-1_NodeLink
+  349  cd "/Users/nahyun/Desktop/항목을 포함하는 새로운 폴더/" && g++ 202234860_김나현_HW2-2_CallByValue.cpp -o 202234860_김나현_HW2-2_CallByValue && "/Users/nahyun/Desktop/항목을 포함하는 새로운 폴더/"202234860_김나현_HW2-2_CallByValue
+  350  cd "/Users/nahyun/Desktop/항목을 포함하는 새로운 폴더/" && g++ 202234860_김나현_HW2-3_CallByReference.cpp -o 202234860_김나현_HW2-3_CallByReference && "/Users/nahyun/Desktop/항목을 포함하는 새로운 폴더/"202234860_김나현_HW2-3_CallByReference
+  351  cd GitHub
+  352  cd C
+  353  git add .
+  354  git commit -m "문해기 4주차"
+  355  git push origin Mac
+  356  exit
+  357  cd NaMo
+  358  git switch cocoa
+  359  git pull origin main
+  360  git add .
+  361  git commit -m "2022-09-28(수) 나모 새출발 정리"
+  362  git pull origin main
+  363  cd GitHub
+  364  git clone https://github.com/CMC-Hackathon-Team1/Android.git
+  365  git clone https://github.com/nahy-512/Android_Self_Study.git
+  366  git branch cocoa
+  367  cd Android_Self_Study
+  368  git branch cocoa
+  369  git switch cocoa
+  370  git add .
+  371  cd GitHub
+  372  ls
+  373  cd Android_Self_Study
+  374  git add .
+  375  ..
+  376  cd ..
+  377  exit
+  378  cd GitHub
+  379  git clone https://github.com/Ginieee/Android_Self_Study.git
+  380  cd Android_Self_Study
+  381  git branch cocoa
+  382  git switch cocoa
+  383  git add .
+  384  git commit -m "file/branch upload"
+  385  git push origin cocoa
+  386  exit
+  387  cd GitHub
+  388  cd Android_Self_Study
+  389  find . -name .DS_Store
+  390  find . -name .DS_Store -print0 | xarges -0 git rm -f --ignore-unmatch
+  391  find . -name .DS_Store -print0 |\nxargs -0 git rm -f --ignore-unmatch
+  392  ls la
+  393  ls -la
+  394  echo .DS_Store >> .gitignore
+  395  git add --all
+  396  cd GitHub
+  397  cd Android_Self_Study
+  398  git commit -m '.DS_Store removed'
+  399  git push origin main
+  400  git pull origin main
+  401  cd GitHub
+  402  cd Android_Self_Study
+  403  git push origin main
+  404  git push origin cocoa
+  405  cd GitHub
+  406  cd Android_Self_Study
+  407  cd GitHub
+  408  ls
+  409  defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
+  410  exit
+  411  cd GitHub
+  412  git clone https://github.com/Ginieee/Android_Self_Study.git
+  413  cd Android_Self_Study
+  414  git switch cocoa
+  415  ls -la
+  416  mv cocoa Cocoa
+  417  exit
+  418  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc HW5-3.c -o HW5-3 && "/Users/nahyun/대학교/문제해결기법/4주차/"HW5-3
+  419  cd "/Users/nahyun/대학교/문제해결기법/4주차/" && gcc ex5-4.c -o ex5-4 && "/Users/nahyun/대학교/문제해결기법/4주차/"ex5-4
+  420  cd g
+  421  cd GitHub
+  422  cd C
+  423  git add .
+  424  git commit -m "문해기 5주차"
+  425  git push origin Mac
+  426  exit
+  427  cd GitHub
+  428  cd C
+  429  git add .
+  430  git commit -m "문해기 수업 자료"
+  431  git push origin main
+  432  git push origin Mac
+  433  ls
+  434  cd 3rd_UMC_iOS
+  435  git add .
+  436  cd cocoa
+  437  git add .
+  438  git commit -m "Week2"
+  439  git push origin cocoa
+  440  exit
+  441  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/ex5-2.py
+  442  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/ex5-3.py
+  443  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/test5-1.py
+  444  ls
+  445  cd GitHub
+  446  cd C
+  447  find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+  448  echo .DS_Store >> .gitignore
+  449  git add --all
+  450  git commit -m '.DS_Store removed'
+  451  git push origin Mac
+  452  ~
+  453  cd GitHub
+  454  cd Android_Self_Study
+  455  ls
+  456  cd Cocoa
+  457  find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+  458  echo .DS_Store >> .gitignore
+  459  git add .
+  460  git commit -m 'remove .DS_Store'
+  461  git push origin cocoa
+  462  ~
+  463  exit
+  464  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/test5-1.py
+  465  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/slice.py
+  466  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/test5-2.py
+  467  python -u "/Users/nahyun/대학교/응용프로그래밍/5주차/test5-2.py"
+  468  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/test5-2.py
+  469  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/ex5-4.py
+  470  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/split.py
+  471  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/split2.py
+  472  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/4주차/HW4-3.py
+  473  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/join.py
+  474  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/quizList.py
+  475  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/enumerate.py
+  476  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/exercise1.py
+  477  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/HW5-1.py
+  478  /usr/local/bin/python3 /Users/nahyun/대학교/응용프로그래밍/5주차/HW5-2.py
+  479  ls
+  480  cd OSS | ls
+  481  ls | wc -l
+  482  cd OSS
+  483  ls | wc - 
+  484  ls | wc -l
+  485  ls
+  486  ls -lh | less
+  487  ~
+  488  ls -lh | less
+  489  cd OSS
+  490  clear
+  491  ls
+  492  echo *
+  493  echo print out the text
+  494  ls
+  495  ls -lh > file_list.txt
+  496  clear
+  497  ~
+  498  clear
+  499  cd OSS \\nls
+  500  clear
+  501  cd OSS
+  502  ls
+  503  ls -lh > file_list.txt
+  504  ls
+  505  cat file_list.txt
+  506  ls -lh >> file_list.txt
+  507  cat file_list.txt
+  508  cat text.txt
+  509  sort <text.txt> sorted_words.txt
+  510  cat sorted_words.txt
+  511  cd OSS
+  512  ls -lh | less
+  513  ls
+  514  ls | wc -l
+  515  cle
+  516  clear
+  517  echo print out the text
+  518  ls
+  519  echo *
+  520  echo ~
+  521  echo ~nahyun
+  522  clear
+  523  ls -l \\n--reverse \\n--human-readable
+  524  ls

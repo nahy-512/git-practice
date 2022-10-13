@@ -1,0 +1,10 @@
+total 8
+-rw-r--r--  1 nahyun  staff     0B 10  2 03:57 file_list.txt
+drwxr-xr-x  7 nahyun  staff   224B  9 24 18:33 neuralintlab
+-rw-r--r--@ 1 nahyun  staff    23B 10  2 03:54 text.txt
+drwxr-xr-x  5 nahyun  staff   160B  9 24 23:11 transformers
+total 16
+-rw-r--r--  1 nahyun  staff   245B 10  2 03:57 file_list.txt
+drwxr-xr-x  7 nahyun  staff   224B  9 24 18:33 neuralintlab
+-rw-r--r--@ 1 nahyun  staff    23B 10  2 03:54 text.txt
+drwxr-xr-x  5 nahyun  staff   160B  9 24 23:11 transformers
